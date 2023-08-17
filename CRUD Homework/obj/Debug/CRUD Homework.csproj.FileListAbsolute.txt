@@ -1,0 +1,22 @@
+C:\Users\maher\source\repos\CRUD Homework\CRUD Homework\obj\Debug\CRUD Homework.csproj.AssemblyReference.cache
+C:\Users\maher\source\repos\CRUD Homework\CRUD Homework\obj\Debug\CRUD Homework.csproj.SuggestedBindingRedirects.cache
+C:\Users\maher\source\repos\CRUD Homework\CRUD Homework\obj\Debug\CRUD Homework.csproj.CoreCompileInputs.cache
+C:\Users\maher\source\repos\CRUD Homework\CRUD Homework\bin\Debug\CRUD Homework.exe.config
+C:\Users\maher\source\repos\CRUD Homework\CRUD Homework\bin\Debug\CRUD Homework.exe
+C:\Users\maher\source\repos\CRUD Homework\CRUD Homework\bin\Debug\CRUD Homework.pdb
+C:\Users\maher\source\repos\CRUD Homework\CRUD Homework\obj\Debug\CRUD Homework.exe
+C:\Users\maher\source\repos\CRUD Homework\CRUD Homework\obj\Debug\CRUD Homework.pdb
+C:\Users\maher\source\repos\CRUD Homework\CRUD Homework\bin\Debug\Dapper.dll
+C:\Users\maher\source\repos\CRUD Homework\CRUD Homework\bin\Debug\Dapper.xml
+C:\Users\maher\source\repos\CRUD Homework\CRUD Homework\obj\Debug\CRUD Homework.csproj.CopyComplete
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\CRUD Homework\CRUD Homework\bin\Debug\CRUD Homework.exe.config
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\CRUD Homework\CRUD Homework\bin\Debug\CRUD Homework.exe
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\CRUD Homework\CRUD Homework\bin\Debug\CRUD Homework.pdb
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\CRUD Homework\CRUD Homework\bin\Debug\Dapper.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\CRUD Homework\CRUD Homework\bin\Debug\Dapper.xml
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\CRUD Homework\CRUD Homework\obj\Debug\CRUD Homework.csproj.AssemblyReference.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\CRUD Homework\CRUD Homework\obj\Debug\CRUD Homework.csproj.SuggestedBindingRedirects.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\CRUD Homework\CRUD Homework\obj\Debug\CRUD Homework.csproj.CoreCompileInputs.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\CRUD Homework\CRUD Homework\obj\Debug\CRUD Homework.csproj.CopyComplete
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\CRUD Homework\CRUD Homework\obj\Debug\CRUD Homework.exe
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\CRUD Homework\CRUD Homework\obj\Debug\CRUD Homework.pdb
